@@ -1,6 +1,4 @@
-# Welcome to your Lovable project
 
-## Project info
 .
 
 **Use your preferred IDE**
@@ -48,4 +46,8 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- python
+- supabase
+- fastapi
+  
 
