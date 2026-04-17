@@ -1,0 +1,37 @@
+{
+  "language": {
+    "name": "English"
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  },
+  "hero": {
+    "badge": "Multi-Agent AI Platform",
+    "title": {
+      "primary": "AI-Powered Governance",
+      "highlight": "for Bharat"
+    },
+    "description": "Bridge communication across India’s diverse states and languages, predict policy impacts across regions, and empower data-driven decision-making for 1.4 billion citizens with AI-powered insights.",
+    "features": [
+      "Multilingual",
+      "Privacy Protected",
+      "AI-Powered Insights"
+    ],
+    "primaryCta": "Explore Platform",
+    "secondaryCta": "Watch Demo",
+    "stats": [
+      {
+        "value": "22+",
+        "label": "Official Languages"
+      },
+      {
+        "value": "28",
+        "label": "States & 8 UTs"
+      },
+      {
+        "value": "1.4B",
+        "label": "Citizens"
+      }
+    ]
+  }
+}
